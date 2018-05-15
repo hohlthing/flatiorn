@@ -7,7 +7,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activemodel (4.2.6)
+    activemodel (4.2.7.1)
       activesupport (= 4.2.6)
       builder (~> 3.1)
     activerecord (4.2.6)
@@ -42,14 +42,14 @@ GEM
     mime-types-data (3.2016.0221)
     mini_portile2 (2.0.0)
     minitest (5.8.4)
-    nokogiri (1.6.7.2)
+    nokogiri (1.8.2)
       mini_portile2 (~> 2.0.0.rc2)
     pry (0.10.3)
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
     rack (1.6.4)
-    rack-protection (1.5.3)
+    rack-protection (1.5.5)
       rack
     rack-test (0.6.3)
       rack (>= 1.0)
